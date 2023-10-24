@@ -277,8 +277,9 @@
       "font.display.s.medium": "S:e5ffa0c2fd3a805af169147ebba2e40d186cc64a,"
     },
     "selectedTokenSets": {
-      "reference": "source",
-      "matisse": "enabled"
+      "core/reference": "source",
+      "client/matisse": "enabled",
+      "client/HeyDoctor": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:119:14",
     "$figmaModeId": "119:0",
@@ -422,8 +423,9 @@
     "name": "HeyDoctor",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "reference": "source",
-      "HeyDoctor": "enabled"
+      "core/reference": "source",
+      "client/matisse": "disabled",
+      "client/HeyDoctor": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:119:14",
     "$figmaModeId": "119:1",

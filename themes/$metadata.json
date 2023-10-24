@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
-    "reference",
-    "matisse",
-    "HeyDoctor"
+    "core/reference",
+    "client/matisse",
+    "client/HeyDoctor"
   ]
 }
